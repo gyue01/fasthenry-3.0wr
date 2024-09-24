@@ -1,4 +1,4 @@
-CFLAGS = -O -DFOUR
+CFLAGS = -O -DFOUR -fcommon
 
 SHELL = /bin/sh
 RM = /bin/rm
